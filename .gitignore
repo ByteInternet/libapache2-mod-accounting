@@ -1,0 +1,7 @@
+mod_accounting.so
+mod_accounting.o
+mod_accounting.c~
+mod_accounting.slo
+mod_accounting.lo
+mod_accounting.la
+.libs
