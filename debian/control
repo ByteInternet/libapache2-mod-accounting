@@ -2,7 +2,7 @@ Source: libapache2-mod-accounting
 Section: web
 Priority: optional
 Maintainer: Allard Hoeve <allard@byte.nl>
-Standards-Version: 3.8.1
+Standards-Version: 3.9.1
 Build-Depends: debhelper, cdbs, apache2-prefork-dev (>= 2.2.4), libtool, libapr1-dev, pkg-config
 Uploaders: Allard Hoeve <allard@byte.nl>
 
