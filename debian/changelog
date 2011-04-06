@@ -1,0 +1,11 @@
+libapache2-mod-accounting (2) unstable; urgency=low
+
+  * Repackage, Debian standaarden, hercompilen voor squeeze.
+
+ -- Allard <allard@intern.byte.nl>  Wed, 06 Apr 2011 16:35:27 +0200
+
+libapache2-mod-accounting (1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Allard Hoeve <allard@byte.nl>  Tue, 24 Nov 2009 17:20:57 +0100

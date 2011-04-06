@@ -1,0 +1,13 @@
+Source: libapache2-mod-accounting
+Section: web
+Priority: optional
+Maintainer: Allard Hoeve <allard@byte.nl>
+Standards-Version: 3.8.1
+Build-Depends: debhelper, cdbs, apache2-prefork-dev (>= 2.2.4), libtool, libapr1-dev, pkg-config
+Uploaders: Allard Hoeve <allard@byte.nl>
+
+Package: libapache2-mod-accounting
+Architecture: any
+Depends: apache2.2-common (>= 2.2.4), ${shlibs:Depends}
+Description: Apache 2 module for internal accounting at Byte
+ This is a module that adds support for measuring utime in requests.
