@@ -1,3 +1,10 @@
+libapache2-mod-accounting (3) unstable; urgency=low
+
+  * Squeeze build (AMD64)
+  * Lenny Build (I386)
+
+ -- Roy van Baekel <roy@byte.nl>  Wed, 06 Jul 2011 14:56:29 +0200
+
 libapache2-mod-accounting (2) unstable; urgency=low
 
   * Repackage, Debian standaarden, hercompilen voor squeeze.
