@@ -1,3 +1,9 @@
+libapache2-mod-accounting (3) unstable; urgency=low
+
+  * Version bump
+
+ -- Cipriano Groenendal <cipri@byte.nl>  Thu, 02 Feb 2012 12:51:39 +0100
+
 libapache2-mod-accounting (2) unstable; urgency=low
 
   * Repackage, Debian standaarden, hercompilen voor squeeze.
