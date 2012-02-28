@@ -3,7 +3,7 @@ Section: web
 Priority: optional
 Maintainer: Allard Hoeve <allard@byte.nl>
 Standards-Version: 3.9.1
-Build-Depends: debhelper (>= 7), apache2-prefork-dev (>= 2.2.4), libtool, libapr1-dev, pkg-config
+Build-Depends: debhelper (>= 7), apache2-prefork-dev (>= 2.2.4) | apache2-dev, libtool, libapr1-dev, pkg-config
 
 Package: libapache2-mod-accounting
 Architecture: any
